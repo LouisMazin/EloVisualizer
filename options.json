@@ -1,0 +1,8 @@
+{
+    "pseudo": "MyrialB",
+    "gameMode": "chess_bullet",
+    "colorPositif": "0,255,0,255",
+    "colorNegatif": "255,0,0,255",
+    "colorNeutral": "255,255,0,255",
+    "actualiser": 15
+}
